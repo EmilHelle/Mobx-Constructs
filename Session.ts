@@ -19,3 +19,5 @@ class Session<T>{
         this.limit = limit;
     }
 }
+
+export default Session;
