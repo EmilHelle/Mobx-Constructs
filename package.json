@@ -1,6 +1,6 @@
 {
   "name": "mobx-constructs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic mobx constructs/helpers. Includes store, viewstore, view, session",
   "main": "index.js",
   "scripts": {
