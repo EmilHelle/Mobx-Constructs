@@ -1,4 +1,5 @@
 import { observable, action } from "mobx";
+import View from './View';
 
 class ViewStore {
   @observable currentView: View;
