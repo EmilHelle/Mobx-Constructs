@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/EmilHelle/Mobx-Constructs#readme",
   "dependencies": {
+    "@types/node": "^12.12.14",
     "mobx": "^5.15.0"
   }
 }
