@@ -2,6 +2,7 @@
     "compilerOptions": {
         "experimentalDecorators": true,
         "module": "commonjs",
+        "moduleResolution": "node",
         "strict": false,
         "noImplicitAny": true,
         "removeComments": true,
